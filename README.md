@@ -70,19 +70,6 @@ I enjoy solving complex problems, exploring new technologies and turning ideas i
 
 ---
 
-### `04 / GITHUB STATISTICS`
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andreyyko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyyko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andreyyko&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
-</p>
-
----
-
 ### `05 / LET'S CONNECT`
 
 <p align="center">
