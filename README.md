@@ -74,7 +74,7 @@ I enjoy solving complex problems, exploring new technologies and turning ideas i
 ### `04 / LET'S CONNECT`
 
 <p align="center">
-  <a href="www.linkedin.com/in/oles-andreyko-7b5784275" target="_blank">
+  <a href="https://www.linkedin.com/in/oles-andreyko-7b5784275/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:oles.andreyko@gmail.com">
