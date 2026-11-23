@@ -1,4 +1,4 @@
-# Hey, I'm Andreyyko 👋
+# Hey, I'm Oles 👋
 
 \<p align="center">
 &#x20; \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%26+Next.js+Enthusiast;Building+Scalable+Web+Applications;Turning+Ideas+Into+Code](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=24\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=650\&lines=Full-Stack+Developer;React+%26+Next.js+Enthusiast;Building+Scalable+Web+Applications;Turning+Ideas+Into+Code)" alt="Typing SVG" />
