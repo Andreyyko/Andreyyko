@@ -70,11 +70,15 @@ I enjoy solving complex problems, exploring new technologies and turning ideas i
 
 ---
 
-### `05 / LET'S CONNECT`
+
+### `04 / LET'S CONNECT`
 
 <p align="center">
-  <a href="https://github.com/Andreyyko">
-    <img src="https://img.shields.io/badge/GitHub-Andreyyko-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -85,3 +89,4 @@ I enjoy solving complex problems, exploring new technologies and turning ideas i
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=100&section=footer" width="100%" />
 </p>
+
